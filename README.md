@@ -1,5 +1,5 @@
 # Smart Tourist Safety Monitoring & Incident Response System
-
+![alt text](main.png)
 ## Overview
 
 This project is developed for the Smart India Hackathon and addresses the challenge of ensuring tourist safety using advanced technologies like AI, Blockchain, and Geo-Fencing. The solution is designed for regions where tourism is vital, and traditional safety measures are insufficient, such as the Northeast of India.
@@ -7,7 +7,7 @@ This project is developed for the Smart India Hackathon and addresses the challe
 ## Problem Statement
 
 Tourist safety is a growing concern, especially in remote and high-risk areas. Manual tracking and conventional policing methods are inadequate. This project proposes a smart, technology-driven system for real-time monitoring, rapid incident response, and secure identity verification, while maintaining privacy and ease of travel.
-
+![alt text](RakshtaMitra.png)
 ## Key Features
 
 ### 1. Digital Tourist ID Generation Platform
